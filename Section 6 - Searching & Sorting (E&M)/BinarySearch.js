@@ -21,6 +21,6 @@ console.log("Final Ans::::", binarySearch([5], 5))
 
 /** 
  * Leet Code : 704
- *  Note : It can apply onlt to arrays, which are sorted. 
+ *  Note : It can apply only to arrays, which are sorted. 
  *  Approach 1 : 
  */
